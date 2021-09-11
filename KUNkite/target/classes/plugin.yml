@@ -1,0 +1,8 @@
+name: KUNKite
+version: '1.0'
+main: kun.kite.plugin
+api-version: 1.17
+authors: [ Columba_Karasu ]
+commands:
+  kunkite:
+    usage: KUNは見つかりませんでした。
